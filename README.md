@@ -18,3 +18,9 @@ WebExtensions API를 지원하는 브라우저면 모두 가능
 네이버 접속 시 유저 에이전트를 웨일로 고치는 원리이기 때문에 예기치 않은 문제가 있을 수 있습니다.  
 
 그리고 지금은 웨일 전용 디자인이지만 곧 전체 브라우저로 확장될 테니 그때는 이 확장도 쓸모없어지겠지...
+
+## 스크린샷
+![Old NAVER](https://i.imgur.com/JncN4Ig.png)  
+이랬던 네이버가  
+![New NAVER](https://i.imgur.com/Mg2GAlP.png)  
+이렇게 바뀌었습니다!
