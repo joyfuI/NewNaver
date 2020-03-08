@@ -1,6 +1,6 @@
 "use strict";
 function headers(details) {
-	const userAgent = ' Whale/2.6.88.10';	// 웨일
+	const userAgent = ' Chrome/76.0.3809.146 Whale/2.6.90.18';	// 웨일
 
 	for (let header of details.requestHeaders) {
 		if (header.name.toLowerCase() === 'user-agent') {	// 유저 에이전트를
