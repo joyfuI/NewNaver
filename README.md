@@ -2,6 +2,8 @@
 웨일 브라우저에서만 적용되는 네이버의 새 디자인을 적용해주는 브라우저 확장입니다.  
 단순하게 네이버 접속 시 웨일로 접속하는 것으로 속이는 원리입니다.
 
+### 네이버 신디자인이 웨일 전용에서 브라우저 전체로 확장되었기 때문에 이제 이 확장은 필요가 없습니다.
+
 ## 설치
 * [Firefox](https://addons.mozilla.org/ko/addon/new%EB%84%A4%EC%9D%B4%EB%B2%84/)
 * [Chrome](https://chrome.google.com/webstore/detail/new%EB%84%A4%EC%9D%B4%EB%B2%84/kofgbkkedcjbnabgeagelhdedhfeehnd)
